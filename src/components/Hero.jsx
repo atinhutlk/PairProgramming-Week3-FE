@@ -1,6 +1,6 @@
 function Hero() {
   return (
-    <section className="hero" id="home">
+   <section className="hero" id="home">
       <div className="hero-banner">
         <h1>backroads app</h1>
         <p>
